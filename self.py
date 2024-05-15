@@ -1,5 +1,5 @@
 # I know it says to put them in a dict but that's really weird
-# and a list makes much more sense so I aint doin' that
+# and a list makes much more sense
 HANGMAN_PHOTOS = [
     '\tx-------x',
     (
